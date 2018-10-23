@@ -7,3 +7,4 @@ alternative for the [text introduction](01-Introduction.md). The available resou
 
 2. [Introduction-for-ILT-markdown-option.md](Introduction-for-ILT-markdown-option.md): Alternative for the pdf file, no download required. Exact same content.
 
+3. https://www.searchtechnologies.com/blog/why-cognitive-search : Why we need Cognitive Search and its implications in real life.
